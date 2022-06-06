@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e55c199522e6fe04582aabc01b187841
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SelectedIndex: {fileID: 21300000, guid: cb2418f5bcabdc646ac86b99860d7ced, type: 3}
+  - UnselectedIndex: {fileID: 21300000, guid: 5c123edc37e8ced43a228ae061623e14, type: 3}
+  - selectionIndexPrefab: {fileID: 1309932043092026278, guid: 45e771d70b4667a44b129ba74ad9fcfc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

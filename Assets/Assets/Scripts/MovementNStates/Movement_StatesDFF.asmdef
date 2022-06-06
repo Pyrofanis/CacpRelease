@@ -1,0 +1,19 @@
+{
+    "name": "Movement_StatesDFF",
+    "rootNamespace": "",
+    "references": [
+        "GUID:eefba40ec1cbfcc49ad1583dccd26ebe",
+        "GUID:556d3d915533a124980d983faa20b3c3",
+        "GUID:5c375500b5566304380025e5720dd5f8",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

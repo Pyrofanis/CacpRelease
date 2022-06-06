@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 698615c53ba10e048bedc0f6980ae5d4, type: 3}
+  m_Name: wolf
+  m_EditorClassIdentifier: 
+  previouScriptableObject: {fileID: 0}
+  _CurrentNpcSpeaker: 2
+  currentEmotion: 0
+  Npcresponse: 'you are such a dork you know that
+
+    fuck off a dork you know thata
+    dork you know that
+
+    idiota dork you know thata dork you know thata dork you
+    know that'
+  currentPlayerEmotion: 0
+  _PlayersResponses:
+  - sheep
+  - npc
+  - wolf
+  - fox
+  - 'hobogator
+
+'
+  playerResponseNEmotion:
+  - currentResponse: sheep
+    currentEmotions: 0
+  - currentResponse: npc
+    currentEmotions: 0
+  - currentResponse: wolf
+    currentEmotions: 0
+  - currentResponse: fox
+    currentEmotions: 0
+  - currentResponse: 'hobogator
+
+'
+    currentEmotions: 0
+  _DialogueToRedirectTo:
+  - {fileID: 11400000, guid: c19450e9746284a4685e614234fd7475, type: 2}
+  - {fileID: 11400000, guid: 7cf91850e8bcd8b4d97f060d61b24c4c, type: 2}
+  - {fileID: 11400000}
+  - {fileID: 11400000, guid: 4a921ed317e7da04cbed0325ecaf32dd, type: 2}
+  - {fileID: 11400000, guid: c87faa2bcc3e46348b7fb762a68fd06b, type: 2}
+  newNameOfDialogueBox: 

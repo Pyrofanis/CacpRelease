@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 698615c53ba10e048bedc0f6980ae5d4, type: 3}
+  m_Name: FinalDialogue 8
+  m_EditorClassIdentifier: 
+  previouScriptableObject: {fileID: 11400000, guid: fafb5b00cd719a942aedaca7424de60c, type: 2}
+  _CurrentNpcSpeaker: 0
+  Npcresponse: 'this system could send you at different responses or at the same '
+  currentEmotion: 0
+  playerResponseNEmotion:
+  - currentResponse: hey how is the weather?
+    currentEmotions: 0
+  - currentResponse: what is your favourite colour
+    currentEmotions: 0
+  - currentResponse: what is your zodiac sign?
+    currentEmotions: 0
+  _DialogueToRedirectTo:
+  - {fileID: 11400000, guid: f0b2eb509737bdf47b6b504c42baa4db, type: 2}
+  - {fileID: 11400000, guid: aefe984ec4ae9f54eb38735139d532e0, type: 2}
+  - {fileID: 11400000, guid: 81fa3771e3a93ce429297426de6385c0, type: 2}
+  newNameOfDialogueBox: 

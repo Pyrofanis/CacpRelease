@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 698615c53ba10e048bedc0f6980ae5d4, type: 3}
+  m_Name: FinalDialogue 14
+  m_EditorClassIdentifier: 
+  previouScriptableObject: {fileID: 11400000, guid: 372173ec606bf5644a32eb56491bc3f1, type: 2}
+  _CurrentNpcSpeaker: 0
+  Npcresponse: 
+  currentEmotion: 0
+  playerResponseNEmotion:
+  - currentResponse: wanna chat
+    currentEmotions: 0
+  - currentResponse: im kinda borred
+    currentEmotions: 0
+  - currentResponse: one morning i
+    currentEmotions: 0
+  _DialogueToRedirectTo:
+  - {fileID: 11400000, guid: f4c521ec7ba9958468ba41f64b173ab8, type: 2}
+  newNameOfDialogueBox: 

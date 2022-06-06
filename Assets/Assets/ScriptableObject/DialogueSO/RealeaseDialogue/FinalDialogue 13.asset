@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 698615c53ba10e048bedc0f6980ae5d4, type: 3}
+  m_Name: FinalDialogue 13
+  m_EditorClassIdentifier: 
+  previouScriptableObject: {fileID: 11400000, guid: b01cb86e297996343966ae6635c81cf0, type: 2}
+  _CurrentNpcSpeaker: 0
+  Npcresponse: 
+  currentEmotion: 0
+  playerResponseNEmotion:
+  - currentResponse: what is like in here
+    currentEmotions: 0
+  - currentResponse: oh look at the carpet so lovely
+    currentEmotions: 0
+  - currentResponse: so what should i play maybe try that divorced couple game with
+      chris
+    currentEmotions: 0
+  _DialogueToRedirectTo:
+  - {fileID: 11400000, guid: 2be5d8fab2b71de48961e096a4ff82ab, type: 2}
+  newNameOfDialogueBox: 

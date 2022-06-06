@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 698615c53ba10e048bedc0f6980ae5d4, type: 3}
+  m_Name: no response 3
+  m_EditorClassIdentifier: 
+  previouScriptableObject: {fileID: 0}
+  _CurrentNpcSpeaker: 0
+  currentEmotion: 0
+  Npcresponse: 'do you need any assistance with your top tower
+
+    maybe buy some
+    BB'
+  currentPlayerEmotion: 0
+  _PlayersResponses: []
+  playerResponseNEmotion: []
+  _DialogueToRedirectTo:
+  - {fileID: 11400000, guid: 45b19bedb14717c41848eefce0a63f72, type: 2}
+  newNameOfDialogueBox: 

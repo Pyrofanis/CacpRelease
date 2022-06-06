@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - DialogueBox
+  - Ladders
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - NpcesTXTS
+  - CacpMinigameDungeonLVL
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: SelectionIndexes
+    uniqueID: 2132592291
+    locked: 0
+  - name: Layer1
+    uniqueID: 3737116621
+    locked: 0
+  - name: Layer2
+    uniqueID: 4220557625
+    locked: 0
+  - name: Layr3
+    uniqueID: 3674656317
+    locked: 0
+  - name: Layer4
+    uniqueID: 240687721
+    locked: 0
+  - name: MiniGamesUI
+    uniqueID: 3368040879
+    locked: 0
