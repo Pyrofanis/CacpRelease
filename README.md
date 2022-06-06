@@ -22,7 +22,8 @@ Tmpro  unity plugins and dotweens
 .[https://github.com/Demigiant/dotween/blob/develop/LICENSE],[https://github.com/Pyrofanis/CandyCat/tree/main/Assets/TextMesh%20Pro] follow their authors license.
 
 scripts,scriptables,animations,scenes and prefabs are distributed under GPL v2.0
-Sprites are distributed under creative commons with reference to the author pyrofanis
+
+Sprites are distributed under creative commons[CC BY-SA] with reference to the author pyrofanis
 and the programs used krita by kde
 
 special thanks to greyagent,3nill,muffin_skull for their helo throughout the project
