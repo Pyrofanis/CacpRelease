@@ -24,3 +24,5 @@ Tmpro  unity plugins and dotweens
 scripts,scriptables,animations,scenes and prefabs are distributed under GPL v2.0
 Sprites are distributed under creative commons with reference to the author pyrofanis
 and the programs used krita by kde
+
+special thanks to greyagent,3nill,muffin_skull for their helo throughout the project
